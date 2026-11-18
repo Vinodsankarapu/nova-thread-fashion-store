@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img">
+<defs><pattern id="weave" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="14" stroke="#000" stroke-width="2" opacity=".07"/></pattern></defs>
+<rect width="800" height="1000" fill="#f6ecd2"/>
+<ellipse cx="400" cy="790" rx="250" ry="22" fill="#000" opacity=".07"/>
+<g transform="translate(400 600) scale(1.06) translate(-400 -596)"><path d="M150 560 Q150 500 230 490 L360 478 Q420 440 480 470 L640 540 Q724 566 728 650 L728 690 H150 Z" fill="#2f221e" stroke="#211815" stroke-width="3" stroke-linejoin="round"/><path d="M150 560 Q150 500 230 490 L360 478 Q420 440 480 470 L640 540 Q724 566 728 650 L728 690 H150 Z" fill="url(#weave)"/><rect x="130" y="690" width="620" height="52" rx="26" fill="#f4f1e8"/><path d="M420 470 Q500 500 560 540 Q500 560 430 540 Z" fill="#241a17"/><path d="M170 640 H700" fill="none" stroke="#8c8583" stroke-width="3" stroke-dasharray="9 7" stroke-linecap="round"/></g>
+</svg>

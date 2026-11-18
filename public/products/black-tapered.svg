@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img">
+<defs><pattern id="weave" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="14" stroke="#000" stroke-width="2" opacity=".07"/></pattern></defs>
+<rect width="800" height="1000" fill="#e8e6f1"/>
+<ellipse cx="400" cy="912" rx="250" ry="22" fill="#000" opacity=".07"/>
+<g transform="translate(400 500) scale(1.08) translate(-400 -510)"><path d="M292 160 H508 L552 856 H424 L400 392 L376 856 H248 Z" fill="#1d1f24" stroke="#141619" stroke-width="3" stroke-linejoin="round"/><path d="M292 160 H508 L552 856 H424 L400 392 L376 856 H248 Z" fill="url(#weave)"/><rect x="292" y="160" width="216" height="42" fill="#16181c"/><path d="M292 214 H508" fill="none" stroke="#828386" stroke-width="3" stroke-dasharray="9 7" stroke-linecap="round"/><path d="M400 214 V330 Q400 366 372 366" fill="none" stroke="#828386" stroke-width="3" stroke-dasharray="9 7" stroke-linecap="round"/><path d="M310 214 Q312 300 352 318" fill="none" stroke="#828386" stroke-width="3" stroke-dasharray="9 7" stroke-linecap="round"/><path d="M490 214 Q488 300 448 318" fill="none" stroke="#828386" stroke-width="3" stroke-dasharray="9 7" stroke-linecap="round"/><circle cx="348" cy="181" r="7" fill="#828386"/><circle cx="452" cy="181" r="7" fill="#828386"/></g>
+</svg>
